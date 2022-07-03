@@ -1,0 +1,17 @@
+,萼片数,完全开放花冠大小,花瓣数,最大花瓣质地,花柱长度,柱头裂位,雌雄蕊相对高度,叶长cm,叶宽cm,叶正面颜色,叶正面隆起性,叶形,叶身形态,叶基形态,叶缘形态,着生状态
+萼片数,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+完全开放花冠大小,True,False,True,True,True,True,True,True,False,True,True,True,True,True,True,True
+花瓣数,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+最大花瓣质地,True,True,True,False,True,True,True,True,True,True,False,True,False,True,True,True
+花柱长度,True,True,True,True,False,False,True,True,True,True,True,True,True,False,True,True
+柱头裂位,True,True,True,True,False,False,True,True,True,True,True,True,True,False,False,False
+雌雄蕊相对高度,True,True,True,True,True,True,False,True,True,False,True,True,False,True,True,True
+叶长cm,True,True,True,True,True,True,True,False,True,True,True,True,True,True,True,True
+叶宽cm,True,False,True,True,True,True,True,True,False,True,True,True,True,True,True,True
+叶正面颜色,True,True,True,True,True,True,False,True,True,False,True,True,True,True,True,True
+叶正面隆起性,True,True,True,False,True,True,True,True,True,True,False,True,False,True,True,False
+叶形,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True
+叶身形态,True,True,True,False,True,True,False,True,True,True,False,True,False,True,True,False
+叶基形态,True,True,True,True,False,False,True,True,True,True,True,True,True,False,False,False
+叶缘形态,True,True,True,True,True,False,True,True,True,True,True,True,True,False,False,False
+着生状态,True,True,True,True,True,False,True,True,True,True,False,True,False,False,False,False
